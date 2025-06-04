@@ -8,7 +8,7 @@ To run:
 ./people_hog_framestop --video=<Video File Name>.mp4 --store=<Logfile name by default it's named pedestrian_log>.txt
 */
 
-// This example code can be found here: https://docs.opencv.org/4.5.4/df/d54/samples_2cpp_2peopledetect_8cpp-example.html
+// This is based on the example code on the opencv website, which can be found here: https://docs.opencv.org/4.5.4/df/d54/samples_2cpp_2peopledetect_8cpp-example.html
 #include <opencv2/objdetect.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
